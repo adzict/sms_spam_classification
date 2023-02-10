@@ -1,2 +1,2 @@
-# sms_spam_classification
+# SMS Spam Classification
  
