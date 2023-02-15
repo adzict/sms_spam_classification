@@ -1,6 +1,6 @@
 # SMS Spam Classification
 
-![project_header](image link from the github folder goes here)
+![project_header](https://github.com/adzict/sms_spam_classification/blob/main/images/sms_spam_header.jpg)
 
 ## Table of Contents
 
@@ -62,9 +62,8 @@ The data was obtained [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Co
 ### File Descriptions
 <a name="File_Descriptions"></a>
 
-* [Data](link to folder) - folder containing processed data
 * [Images](link to folder) - folder containing assets such as images
-* [1. Data Preprocessing and Basic EDA](link to notebook) - Notebook which contains the process of Basic Data Exploration and Preprocessing
+* [SMS Spam Classification](https://github.com/adzict/sms_spam_classification/blob/main/SMS%20Spam%20Classification.ipynb) - Notebook of the project (end-to-end)
 
 ## Feature Notebooks and Deliverables
 <a name="Notebooks_deliverables"></a>
