@@ -10,17 +10,8 @@
 4. [ Project Description ](#Project_Description)
    * [ 1. Data Sources ](#Data_Sources)
    * [ 2. File Descriptions ](#File_Descriptions) 
-5. [ Feature Notebooks and Deliverables ](#Notebooks_deliverables)
-6. [ Most Important Findings ](#Findings)
-   * [1. ](#link_tag)
-   * [2. ](#link_tag)
-   * [3. ](#link_tag)
-   * [4. ](#link_tag)
-   * [5. ](#link_tag)
-   * [6. Conclusion and Future Recommendations](#conclusion)
-7. [ Acknowledgments ](#Acknowledgments)
-8. [ Licences ](#Licences)
-9. [ Contact ](#Contact)
+5. [ Licences ](#Licences)
+6. [ Contact ](#Contact)
 
 ## Project Introduction
 <a name="Project_Introduction"></a>
@@ -65,44 +56,6 @@ The data was obtained [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Co
 * [Images](link to folder) - folder containing assets such as images
 * [SMS Spam Classification](https://github.com/adzict/sms_spam_classification/blob/main/SMS%20Spam%20Classification.ipynb) - Notebook of the project (end-to-end)
 
-## Feature Notebooks and Deliverables
-<a name="Notebooks_deliverables"></a>
-
-### Blog Posts
-[name of blog](link to blog)
-
-### Structure of Notebooks
-<details>
-   <summary>Collapse</summary>
-
-      1. Data Preprocessing and Basic EDA
-
-            1. Imports
-            2. Data
-               2.1 Business Dataset
-               2.2 Review Dataset
-               2.3 User Dataset
-            3. Early EDA and Data Cleaning
-               3.1 Missing values
-               3.2 Duplicate rows
-               3.3 Removing unnecessary features
-            4. Saving data for the next stage
-</details> 
-
-### Presentation
-[Presentation.pdf](link to presentation)
-
-## Most Important Findings
-<a name="Findings"></a>
-
-### 1. Title of finding
-<a name="link_tag"></a>
-
-### 6. Conclusion and Future Recommendations
-<a name="conclusion"></a>
-
-## Acknowledgments
-<a name="Acknowledgments"></a>
 
 ## Licenses
 <a name="Licences"></a>
