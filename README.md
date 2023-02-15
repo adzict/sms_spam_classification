@@ -53,7 +53,7 @@ The data was obtained [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Co
 ### File Descriptions
 <a name="File_Descriptions"></a>
 
-* [Images](link to folder) - folder containing assets such as images
+* [Images](https://github.com/adzict/sms_spam_classification/tree/main/images) - folder containing assets such as images
 * [SMS Spam Classification](https://github.com/adzict/sms_spam_classification/blob/main/SMS%20Spam%20Classification.ipynb) - Notebook of the project (end-to-end)
 
 
